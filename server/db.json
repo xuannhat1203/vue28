@@ -1,0 +1,55 @@
+{
+  "listProduct": [
+    {
+      "id": 1,
+      "name": "Throwback Hip Bag",
+      "description": "Stylish and compact hip bag, perfect for a casual day out.",
+      "imageUrl": "https://bizweb.dktcdn.net/100/413/335/products/64071692tcg-t-duyet-fashion-13.jpg?v=1614306068727",
+      "price": 90,
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "name": "Lie Lie Bag",
+      "description": "Trendy handbag for everyday use with ample space for your essentials.",
+      "imageUrl": "https://sue.vn/wp-content/uploads/2021/07/tui-gucci-horsebit-1995.pinter-574x570.jpg",
+      "price": 30,
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "name": "Beautiful handbag",
+      "description": "Elegant handbag for special occasions with premium leather material.",
+      "imageUrl": "https://khoinguonsangtao.vn/wp-content/uploads/2022/09/mau-tui-xach-gucci.jpg",
+      "price": 50,
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "name": "Medium Stuff Satchel",
+      "description": "Durable and spacious satchel for work or travel.",
+      "imageUrl": "https://cdn.chiaki.vn/unsafe/0x960/left/top/smart/filters:quality(75)/https://chiaki.vn/upload/product/2023/04/tui-gucci-gg-supreme-small-messenger-bag-523599-k5rln-1095-black-64424d73a9294-21042023154643.jpg",
+      "price": 70,
+      "quantity": 1
+    },
+    {
+      "id": 5,
+      "name": "Classic Leather Wallet",
+      "description": "A high-quality leather wallet with multiple card slots.",
+      "imageUrl": "https://xitoshops.com/wp-content/uploads/2021/12/anh-mat-truoc-tui-gucci-1955.jpg",
+      "price": 20,
+      "quantity": 1
+    }
+  ],
+  "carts": [
+    {
+      "id": 2,
+      "productId": 5,
+      "name": "Classic Leather Wallet",
+      "description": "A high-quality leather wallet with multiple card slots.",
+      "imageUrl": "https://xitoshops.com/wp-content/uploads/2021/12/anh-mat-truoc-tui-gucci-1955.jpg",
+      "price": 20,
+      "quantity": 3
+    }
+  ]
+}
